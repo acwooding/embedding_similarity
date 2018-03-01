@@ -1,0 +1,5 @@
+.cache
+.hypothesis
+.ipynb_checkpoints
+__pycache__
+*~
